@@ -2,7 +2,7 @@ from tracemalloc import Snapshot
 import streamlit as st
 import numpy as np
 import pandas as pd
-import seaborn as sns
+# import seaborn as sns
 import sklearn
 from sklearn import datasets
 from sklearn.ensemble import RandomForestClassifier
